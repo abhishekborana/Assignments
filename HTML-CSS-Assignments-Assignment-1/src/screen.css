@@ -4,13 +4,3 @@
 .container, .content {
 width: 100%;
 }
-
-.column {
-  float : left;
-    width : 50%;
-}
-.row:after {
-  content:"";
-  display:table;
-  clear:both;
-}
