@@ -1,0 +1,120 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+/* ----- Main Container ---------   */
+.Maincontainer{
+    width: 100%;
+    border-style: solid;
+        
+}
+
+/* ----- header div 1 ---------   */
+
+.header{
+    background-color: lightgrey;
+    border-style: solid;
+    margin:3px; 
+}
+
+
+.headerUp{
+    width: 40%;
+    display: inline-block; 
+    margin-left: 45px; 
+}
+.imageDiv{
+    float: left;
+}
+.form{
+    margin-left: 465px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    width: 45px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+
+/* ----- header div 2 ---------   */
+
+.headerList{
+    background-color: antiquewhite;
+    border-style: solid;
+    margin: 3px;
+}
+
+.headerhref li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 210px;
+}
+.headerhref li a{
+    text-decoration: none;
+    color: black;
+}
+
+/* ----- Second div section ---------   */
+
+.secondDiv{
+    display: inline-flex;
+    margin: 10px;
+    border:solid;
+}
+.SecondList li{
+    list-style-type: none;
+    text-decoration:  none;
+}
+
+.thridList{
+    list-style-type: none;
+}
+li{
+    text-decoration-line: none;
+}
+/* -----6 Image Section ---------   */
+.container, .content{
+    width: 100%;
+}
+
+
+.section2 img{
+    width: 100px;
+}
+
+.section1{
+    margin-right: 220px;
+    padding-right: 30px;
+    background-color: lightyellow;
+}
+.section2{
+    padding-right: 25px;
+    margin-right: 210px;
+}
+.section3{
+    
+    padding-right: 25px;
+    background-color: lightyellow;
+    margin-right: 205px;
+    float: right;
+}
+.section1 ul{
+    color:black;
+    text-decoration:solid;
+}
+.section3 ul{
+    color:black;
+    text-decoration:solid;
+}
+p{
+    color:black;
+    text-decoration:  none;
+}
+.footer{
+    border:solid;
+}
